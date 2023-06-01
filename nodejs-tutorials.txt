@@ -1,0 +1,111 @@
+/* CURRICULUM */
+- JavaScript basics
+- Install NodeJS
+- NodeJS Modules
+- NodeJS Framework e.g ExpressJS
+- Databases e.g SQL and NoSQL
+- APIs
+- Projects ***
+
+Time estimate - 1 week each.
+
+/* JavaScript basics */
+
+1. Comment out this statement:
+
+   NodeJS is JavaScript at the backend
+
+2. Comment out this statement:
+
+   NodeJS is JavaScript at the backend
+   React is a JavaScript frontend framework
+   ExpressJS is a NodeJS framework
+   There are other NodeJS frameworks too
+
+3. Initialize a variable and assign the following to it on seperate lines...
+a) An empty string
+b) An integer
+c) A float
+d) Any boolean value
+e) Your first name
+
+4. var x = 10; var y = 3; What is..Assign the results to the variable z
+a) x + y?
+b) x - y?
+c) x/y?
+d) x * y
+e) x//y
+f) x % y
+g) x > y
+h) x < y
+
+
+5. var name = "Jane";
+
+   function changeName() {
+   name = "John"
+   }
+
+   what is name here?...
+
+6. Is this expression right or wrong?
+   const age = 13;
+   age = 16;
+
+7. function changeName() {
+   var name = "Jane"
+   } 
+   
+   what is name?
+
+8. Write a function tha adds 2 numbers and returns the result.
+
+9. Initialize an empty array. Give it any name.
+
+10. Write an array of numbers 1 to 5 and assign it to a variable called 'numbers'.
+
+11. Given an array: var groceryList = ["bread", "butter", "sugar", "cereals", "milk"]...
+a) What is the index of 'sugar'?
+b) What is groceryList[1]?
+c) What is the length of the array? Show the expression that leads to the answer.
+d) Remove the last item in the array.
+e) Add the item 'Milo' to the end of the array.
+
+12. Identify the following data types:
+a) 10
+b) "Learning JavaScript is fun!"
+c) True
+d) let person = {
+     firstName : "Jane",
+     lastName : "Doe",
+     age : 25,
+     married : true
+   }
+e) 12.78
+f) [3, 8, 9, 2, 1]
+
+13. Write a for-loop that iterates through numbers  1 to 10 (10 inclusive) and displays each number with the text 'Item is (put your number here)'.
+
+14. Write a while-loop that displays the numbers from 1 to 5 (excluding 5).
+
+15. Write an if..else if...else statement that does the following...
+    let age = 18
+    age below 18, print 'Disallow'
+    age exactly 18, print 'Consider'
+    age above 18, print 'Allow'
+
+16. In this expression...
+    let person = {
+     firstName : "Jane",
+     lastName : "Doe",
+     age : 25,
+     married : true
+   }
+
+a) Get the first name of person. Show the expression.
+b) Add an array of hobbies to the data.
+
+17) What is the length of this statement:
+    "Learning JavaScript is fun!"
+
+18) How will you display the text "Learning JavaScript is fun!" on the console.
